@@ -10,6 +10,7 @@ JAVA_HOME
 WSL
 
 Git for CMD and WSL
+ssh-keygen is loaded with git bash
 
 CLI for CMD and WSL
 
@@ -24,3 +25,10 @@ VS Code
 Eclipse
 
 IntelliJ
+
+Functions:
+NPM
+npm i -g azure-functions-core-tools@core --unsafe-perm true
+curl 
+
+
