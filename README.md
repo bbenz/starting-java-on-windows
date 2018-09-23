@@ -10,12 +10,15 @@ JAVA_HOME
 WSL
 
 Git for CMD and WSL
+
 ssh-keygen is loaded with git bash
 
 CLI for CMD and WSL
 
 Maven
+
 MAVEN_HOME
+
 M2_HOME
 
 Gradle
@@ -28,12 +31,18 @@ IntelliJ
 
 Functions:
 
+.NET SDK: https://www.microsoft.com/net/learn/dotnet/hello-world-tutorial
+
 NPM
 
 npm i -g azure-functions-core-tools@core --unsafe-perm true
 
+
 curl 
 
+
 Storage Explorer  https://azure.microsoft.com/en-us/features/storage-explorer/
+
+
 
 
