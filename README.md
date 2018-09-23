@@ -20,15 +20,20 @@ M2_HOME
 
 Gradle
 
-VS Code
+VS Code with Java package
 
 Eclipse
 
 IntelliJ
 
 Functions:
+
 NPM
+
 npm i -g azure-functions-core-tools@core --unsafe-perm true
+
 curl 
+
+Storage Explorer  https://azure.microsoft.com/en-us/features/storage-explorer/
 
 
