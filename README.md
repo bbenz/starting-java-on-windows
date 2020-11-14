@@ -31,7 +31,7 @@ IntelliJ
 
 Functions:
 
-.NET SDK: https://www.microsoft.com/net/learn/dotnet/hello-world-tutorial
+.NET SDK: https://www.microsoft.com/net/learn/dotnet/hello-world-tutorial?WT.mc_id=java-0000-bbenz
 
 NPM
 
@@ -41,7 +41,7 @@ npm i -g azure-functions-core-tools@core --unsafe-perm true
 curl 
 
 
-Storage Explorer  https://azure.microsoft.com/en-us/features/storage-explorer/
+Storage Explorer  https://azure.microsoft.com/features/storage-explorer/?WT.mc_id=java-0000-bbenz
 
 
 
